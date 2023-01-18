@@ -2,27 +2,6 @@
 clear
 echo "Roblox For Linux - Installer is starting"
 sleep 1
-clear
-echo "Roblox For Linux - Installer is starting ."
-sleep 1
-clear
-echo "Roblox For Linux - Installer is starting .."
-sleep 1
-clear
-echo "Roblox For Linux - Installer is starting ..."
-sleep 1
-clear
-echo "Roblox For Linux - Installer is starting"
-sleep 1
-clear
-echo "Roblox For Linux - Installer is starting ."
-sleep 1
-clear
-echo "Roblox For Linux - Installer is starting .."
-sleep 1
-clear
-echo "Roblox For Linux - Installer is starting ..."
-clear
 
 echo "=================================================================================
                                  Roblox For Linux 
@@ -80,9 +59,6 @@ sudo apt install --install-recommends winehq-devel
 
 sudo apt install -y git python3-pip python3-setuptools python3-wheel python3-dev pkg-config libcairo2-dev gtk-update-icon-cache desktop-file-utils xdg-utils libgirepository1.0-dev gir1.2-gtk-3.0
 
-wget --no-check-certificate "https://onedrive.live.com/download?cid=0D1B2C3D089F7FA0&resid=D1B2C3D089F7FA0%21106&authkey=AAsdS8XcgeXp-_c" -O wine-tkg-staging-fsync-git-6.15.r0.g4b6879f3.tar.xz
-
-tar -xf wine-tkg-staging-fsync-git-6.15.r0.g4b6879f3.tar.xz
 
 git clone https://gitlab.com/brinkervii/grapejuice.git
 
